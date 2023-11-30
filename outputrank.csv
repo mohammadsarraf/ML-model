@@ -1,0 +1,22 @@
+MVP Rank Real,MVP Share Real,MVP Rank SVM,MVP Share SVM,MVP Rank Elastic Net,MVP Share Elastic Net,MVP Rank Random Forest,MVP Share Random Forest,MVP Rank AdaBoost,MVP Share AdaBoost,MVP Rank Gradient Boosting,MVP Share Gradient Boosting,MVP Rank LGBM,MVP Share LGBM,Season
+Joel Embiid,0.915,Nikola Jokić,0.653,Nikola Jokić,0.536,Nikola Jokić,0.629,Nikola Jokić,0.709,Nikola Jokić,0.766,Joel Embiid,0.717,2022-23
+Nikola Jokić,0.875,Nikola Jokić,0.776,Nikola Jokić,0.56,Nikola Jokić,0.742,Nikola Jokić,0.659,Giannis Antetokounmpo,0.666,Nikola Jokić,0.699,2021-22
+Nikola Jokić,0.961,Nikola Jokić,0.716,Nikola Jokić,0.507,Nikola Jokić,0.65,Nikola Jokić,0.654,Nikola Jokić,0.554,Nikola Jokić,0.712,2020-21
+Giannis Antetokounmpo,0.952,Giannis Antetokounmpo,0.685,Giannis Antetokounmpo,0.495,James Harden,0.622,Giannis Antetokounmpo,0.77,Giannis Antetokounmpo,0.687,Giannis Antetokounmpo,0.667,2019-20
+Giannis Antetokounmpo,0.932,Giannis Antetokounmpo,0.787,James Harden,0.583,Giannis Antetokounmpo,0.674,Giannis Antetokounmpo,0.785,Giannis Antetokounmpo,0.718,Giannis Antetokounmpo,0.89,2018-19
+James Harden,0.955,James Harden,0.717,James Harden,0.52,James Harden,0.614,James Harden,0.771,James Harden,0.719,James Harden,0.788,2017-18
+Russell Westbrook,0.879,James Harden,0.569,Russell Westbrook,0.543,James Harden,0.575,Russell Westbrook,0.583,Russell Westbrook,0.632,James Harden,0.683,2016-17
+Stephen Curry,1.0,Stephen Curry,0.627,Stephen Curry,0.602,Stephen Curry,0.724,Stephen Curry,0.849,Stephen Curry,1.014,Stephen Curry,1.013,2015-16
+Stephen Curry,0.922,Stephen Curry,0.532,Stephen Curry,0.435,James Harden,0.6,Stephen Curry,0.629,Stephen Curry,0.654,Stephen Curry,0.71,2014-15
+Kevin Durant,0.986,Kevin Durant,0.808,Kevin Durant,0.575,Kevin Durant,0.701,Kevin Durant,0.832,Kevin Durant,0.861,Kevin Durant,0.893,2013-14
+LeBron James,0.998,LeBron James,0.893,LeBron James,0.601,LeBron James,0.712,LeBron James,0.804,LeBron James,0.937,LeBron James,0.986,2012-13
+LeBron James,0.888,LeBron James,0.564,LeBron James,0.449,LeBron James,0.462,LeBron James,0.583,LeBron James,0.597,LeBron James,0.52,2011-12
+Derrick Rose,0.977,LeBron James,0.609,LeBron James,0.436,LeBron James,0.528,LeBron James,0.653,LeBron James,0.627,LeBron James,0.673,2010-11
+LeBron James,0.98,LeBron James,0.855,LeBron James,0.6,LeBron James,0.825,LeBron James,0.84,LeBron James,0.97,LeBron James,0.934,2009-10
+LeBron James,0.969,LeBron James,0.887,LeBron James,0.662,LeBron James,0.794,LeBron James,0.858,LeBron James,1.02,LeBron James,0.967,2008-09
+Kobe Bryant,0.873,LeBron James,0.52,LeBron James,0.423,LeBron James,0.606,LeBron James,0.539,LeBron James,0.486,Chris Paul,0.469,2007-08
+Dirk Nowitzki,0.882,Dirk Nowitzki,0.395,Dirk Nowitzki,0.405,Steve Nash,0.424,Steve Nash,0.563,Steve Nash,0.68,Dirk Nowitzki,0.604,2006-07
+Steve Nash,0.739,Kobe Bryant,0.564,LeBron James,0.48,Dirk Nowitzki,0.563,Dirk Nowitzki,0.615,Dirk Nowitzki,0.643,Dirk Nowitzki,0.615,2005-06
+Steve Nash,0.839,Kevin Garnett,0.507,Kevin Garnett,0.381,Kevin Garnett,0.508,Kevin Garnett,0.457,Kevin Garnett,0.528,Kevin Garnett,0.429,2004-05
+Kevin Garnett,0.991,Kevin Garnett,0.623,Kevin Garnett,0.514,Kevin Garnett,0.513,Kevin Garnett,0.616,Kevin Garnett,0.79,Kevin Garnett,0.899,2003-04
+Tim Duncan,0.808,Tim Duncan,0.556,Tim Duncan,0.425,Shaquille O'Neal,0.436,Tim Duncan,0.626,Tim Duncan,0.489,Tim Duncan,0.585,2002-03
