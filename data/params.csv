@@ -1,6 +1,6 @@
 {'C': 0.5, 'degree': 2, 'epsilon': 0.1, 'gamma': 'auto', 'kernel': 'rbf'}
 {'alpha': 0.01, 'l1_ratio': 0.5}
-{'bootstrap': True, 'max_features': 5, 'n_estimators': 50, 'oob_score': True}
+{'bootstrap': True, 'max_features': 5, 'n_estimators': 64, 'oob_score': True}
 {'learning_rate': 0.2, 'n_estimators': 40}
-{'learning_rate': 0.1, 'max_depth': 3, 'n_estimators': 40}
+{'learning_rate': 0.1, 'max_depth': 3, 'n_estimators': 30}
 {'feature_fraction': 0.6, 'learning_rate': 0.1, 'max_depth': 3, 'min_data_in_leaf': 25, 'min_gain_to_split': 0, 'num_leaves': 10, 'verbose': -1}
