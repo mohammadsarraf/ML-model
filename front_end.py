@@ -60,12 +60,8 @@ st.markdown("<h1 class='main-header'>NBA MVP Prediction Model 🏀</h1>", unsafe
 # Load prediction results
 @st.cache_data
 def load_data():
-    mvp_predictions = pd.read_csv("mvppred.csv")
-    mvp_predictions2 = pd.read_csv("mvppred2.csv")
     output_rank = pd.read_csv("outputrank.csv")
     return {
-        "mvppred.csv": mvp_predictions,
-        "mvppred2.csv": mvp_predictions2,
         "outputrank.csv": output_rank
     }
 
@@ -95,7 +91,7 @@ with tab1:
     )
     
     # Extract the file name from the selection
-    file_name = "mvppred2.csv"
+    file_name = "outputrank.csv"
     
     # Get the selected data
     selected_data = prediction_data[file_name]
